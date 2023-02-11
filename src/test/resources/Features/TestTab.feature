@@ -1,4 +1,3 @@
-
 Feature: Viskonz website Test
 
   Scenario: Testing Viskonz website
